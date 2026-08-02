@@ -67,7 +67,6 @@ content.appendChild(title);
     
     if (item.summary) content.appendChild(el("p", "news-summary", item.summary));
 
-    const href = safeUrl(item.link || "");
     if (href) {
       const link = el("a", "read-more", "Read full article →");
       link.href = href;
