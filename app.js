@@ -51,7 +51,19 @@
     }
 
     const content = el("div", "news-content");
-    content.appendChild(el("h2", "news-title", item.title || "Company news"));
+    const title = el("h2", "news-title");
+    const titleLink = el("a", "news-title-link", item.title || "Company news");
+
+    const href = safeUrl(item.link || "");
+
+    if (href) {
+      titleLink.href = href;
+      titleLink.target = "_blank";
+      titleLink.rel = "noopener noreferrer";
+    }
+
+title.appendChild(titleLink);
+content.appendChild(title);
     
     if (item.summary) content.appendChild(el("p", "news-summary", item.summary));
 
