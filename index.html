@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light" />
+  <title>Ever.Ag Company News</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="news-shell" aria-labelledby="news-heading">
+    <div class="header-row">
+      <div>
+        <p class="eyebrow">EVER.AG</p>
+        <h1 id="news-heading">Company News</h1>
+      </div>
+      <a class="source-link" href="https://ever.ag/company-news" target="_blank" rel="noopener noreferrer">View all news ↗</a>
+    </div>
+
+    <div id="status" class="status" role="status">Loading company news…</div>
+    <section id="news-list" class="news-list" aria-live="polite"></section>
+
+    <noscript>
+      <p class="status error">JavaScript must be enabled to display the company news feed.</p>
+    </noscript>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>

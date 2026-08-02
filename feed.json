@@ -1,0 +1,13 @@
+{
+  "source": "https://fetchrss.com/feed/1wiyX5B6DBvu1wiyWo7vWBbW.rss",
+  "fetchedAt": "",
+  "items": [
+    {
+      "title": "Company news feed is being initialized",
+      "link": "https://ever.ag/company-news",
+      "date": "",
+      "summary": "Run the included GitHub Actions workflow once to replace this placeholder with the latest Ever.Ag company news.",
+      "image": ""
+    }
+  ]
+}
