@@ -1,13 +1,41 @@
 {
-  "source": "https://fetchrss.com/feed/1wiyX5B6DBvu1wiyWo7vWBbW.rss",
-  "fetchedAt": "",
+  "source": "https://fetchrss.com/feed/1wqO9x5Gf4uI1wqO9YAqaDBa.rss",
+  "fetchedAt": "2026-08-02T05:15:41.611779+00:00",
   "items": [
     {
-      "title": "Company news feed is being initialized",
-      "link": "https://ever.ag/company-news",
-      "date": "",
-      "summary": "Run the included GitHub Actions workflow once to replace this placeholder with the latest Ever.Ag company news.",
-      "image": ""
+      "title": "Ever.Ag Advances Everett to Agribusiness",
+      "link": "https://ever.ag/company-news/press-release-news/ever-ag-advances-everett-to-agribusiness",
+      "date": "2026-08-02T04:50:24+00:00",
+      "summary": "The third wave of Ever.Ag’s agentic AI rollout arrives at Tech Hub Live, bringing FieldAlytics and Merchant Ag to ag retailers, cooperatives, and growers. read more (Feed generated with FetchRSS )",
+      "image": "https://ever.ag/wp-content/uploads/2019/05/everettheader-400x250.webp"
+    },
+    {
+      "title": "Coles and Ever.Ag Partner to Modernize Meat Supply Chain Planning",
+      "link": "https://ever.ag/company-news/press-release-news/coles-and-ever-ag-partner-to-modernize-meat-supply-chain-planning",
+      "date": "2026-08-02T04:50:24+00:00",
+      "summary": "Coles Supermarkets has partnered with Ever.Ag, a global agri-food technology leader, to introduce advanced data science and optimization modeling into Coles’ highly complex fresh meat supply chain. This collaboration marks a major step toward faster, smarter operations across beef, lamb and pork categories. read more (Feed generated with FetchRSS )",
+      "image": "https://ever.ag/wp-content/uploads/2019/05/Grocery-Store-Meat-Selection-400x250.webp"
+    },
+    {
+      "title": "Ever.Ag Expands Everett",
+      "link": "https://ever.ag/company-news/press-release-news/ever-ag-expands-everett",
+      "date": "2026-08-02T04:50:24+00:00",
+      "summary": "The second wave of Ever.Ag’s agentic AI rollout arrives at World Pork Expo, bringing Feed Allocation System, S&OP, and Feedlot IQ to the full livestock and animal protein supply chain. read more (Feed generated with FetchRSS )",
+      "image": "https://ever.ag/wp-content/uploads/2019/05/everettheader-400x250.webp"
+    },
+    {
+      "title": "Ever.Ag Unveils Everett",
+      "link": "https://ever.ag/company-news/press-release-news/ever-ag-unveils-everett",
+      "date": "2026-08-02T04:50:24+00:00",
+      "summary": "Ever.Ag unveils the Everett Ag Decision Engine, bringing agentic AI into agricultural supply chain products—arriving first for dairy with more industries coming next. read more (Feed generated with FetchRSS )",
+      "image": "https://ever.ag/wp-content/uploads/2026/04/everett-press-release-400x250.png"
+    },
+    {
+      "title": "Meatloaf doesn’t get enough credit",
+      "link": "https://ever.ag/company-news/meatloaf-doesnt-get-enough-credit",
+      "date": "2026-08-02T04:50:24+00:00",
+      "summary": "Meatloaf doesn’t get enough credit. Neither does the agricultural supply chain that makes it possible. In this brand video, Ever.Ag traces the full journey from feed ordering and herd management to milk processing, logistics, risk management, and AI-driven decision-making — all the invisible work that quietly powers the food on your table. read more (Feed…",
+      "image": "https://ever.ag/wp-content/uploads/2026/04/meetloaf-hero-image-400x250.webp"
     }
   ]
 }
