@@ -146,6 +146,16 @@ h1 {
   line-height: 1.25;
 }
 
+.news-title-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.news-title-link:hover,
+.news-title-link:focus {
+  text-decoration: underline;
+}
+
 .news-summary {
   display: -webkit-box;
   overflow: hidden;
