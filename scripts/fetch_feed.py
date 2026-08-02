@@ -14,7 +14,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
-FEED_URL = "https://fetchrss.com/feed/1wiyX5B6DBvu1wiyWo7vWBbW.rss"
+FEED_URL = "https://fetchrss.com/feed/1wqO9x5Gf4uI1wqO9YAqaDBa.rss"
 OUTPUT_FILE = Path(__file__).resolve().parents[1] / "feed.json"
 MAX_ITEMS = 10
 USER_AGENT = "EverAgCompanyNewsWidget/1.0 (+https://ever.ag/company-news)"
