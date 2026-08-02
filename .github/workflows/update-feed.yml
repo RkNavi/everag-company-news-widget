@@ -3,7 +3,7 @@ name: Update company news
 on:
   workflow_dispatch:
   schedule:
-    # Once per day, away from the top of the hour. FetchRSS's free plan refreshes daily.
+    # Run once per day at 11:17 UTC.
     - cron: "17 11 * * *"
 
 permissions:
@@ -12,12 +12,13 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
