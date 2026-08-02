@@ -51,9 +51,8 @@
     }
 
     const content = el("div", "news-content");
-    const dateText = formatDate(item.date);
-    if (dateText) content.appendChild(el("p", "news-date", dateText));
     content.appendChild(el("h2", "news-title", item.title || "Company news"));
+    
     if (item.summary) content.appendChild(el("p", "news-summary", item.summary));
 
     const href = safeUrl(item.link || "");
