@@ -1,7 +1,14 @@
 {
   "source": "https://fetchrss.com/feed/1wqO9x5Gf4uI1wqO9YAqaDBa.rss",
-  "fetchedAt": "2026-08-25T11:43:28.132406+00:00",
+  "fetchedAt": "2026-08-26T11:44:43.763126+00:00",
   "items": [
+    {
+      "title": "Stone Point Capital Acquires Ever.Ag’s Risk Management Business",
+      "link": "https://ever.ag/company-news/press-release-news/stone-point-capital-acquires-ever-ags-risk-management-business",
+      "date": "2026-08-26T11:44:43+00:00",
+      "summary": "The third wave of Ever.Ag’s agentic AI rollout arrives at Tech Hub Live, bringing FieldAlytics and Merchant Ag to ag retailers, cooperatives, and growers. read more (Feed generated with FetchRSS )",
+      "image": ""
+    },
     {
       "title": "Ever.Ag Advances Everett to Agribusiness",
       "link": "https://ever.ag/company-news/press-release-news/ever-ag-advances-everett-to-agribusiness",
@@ -29,13 +36,6 @@
       "date": "2026-08-02T04:50:24+00:00",
       "summary": "Ever.Ag unveils the Everett Ag Decision Engine, bringing agentic AI into agricultural supply chain products—arriving first for dairy with more industries coming next. read more (Feed generated with FetchRSS )",
       "image": "https://ever.ag/wp-content/uploads/2026/04/everett-press-release-400x250.png"
-    },
-    {
-      "title": "Meatloaf doesn’t get enough credit",
-      "link": "https://ever.ag/company-news/meatloaf-doesnt-get-enough-credit",
-      "date": "2026-08-02T04:50:24+00:00",
-      "summary": "Meatloaf doesn’t get enough credit. Neither does the agricultural supply chain that makes it possible. In this brand video, Ever.Ag traces the full journey from feed ordering and herd management to milk processing, logistics, risk management, and AI-driven decision-making — all the invisible work that quietly powers the food on your table. read more (Feed…",
-      "image": "https://ever.ag/wp-content/uploads/2026/04/meetloaf-hero-image-400x250.webp"
     }
   ]
 }
