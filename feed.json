@@ -1,7 +1,14 @@
 {
   "source": "https://fetchrss.com/feed/1wqO9x5Gf4uI1wqO9YAqaDBa.rss",
-  "fetchedAt": "2026-09-16T15:25:17.310009+00:00",
+  "fetchedAt": "2026-09-17T15:32:18.797720+00:00",
   "items": [
+    {
+      "title": "Ever.Ag Names Rhonda Bassett-Spiers Chief Executive Officer to Lead Next Chapter of Growth",
+      "link": "https://ever.ag/company-news/press-release-news/ever-ag-new-leadership",
+      "date": "2026-09-17T15:32:18+00:00",
+      "summary": "Ever.Ag, a leading provider of technology, data, analytics, and services to the agriculture industry, today announced the appointment of Rhonda Bassett-Spiers as Chief Executive Officer. read more (Feed generated with FetchRSS )",
+      "image": "https://ever.ag/wp-content/uploads/2026/09/leadership-announcement-press-release-400x250.webp"
+    },
     {
       "title": "Stone Point Capital Acquires Ever.Ag’s Risk Management Business",
       "link": "https://ever.ag/company-news/press-release-news/stone-point-capital-acquires-ever-ags-risk-management-business",
@@ -29,13 +36,6 @@
       "date": "2026-08-02T04:50:24+00:00",
       "summary": "The second wave of Ever.Ag’s agentic AI rollout arrives at World Pork Expo, bringing Feed Allocation System, S&OP, and Feedlot IQ to the full livestock and animal protein supply chain. read more (Feed generated with FetchRSS )",
       "image": "https://ever.ag/wp-content/uploads/2019/05/everettheader-400x250.webp"
-    },
-    {
-      "title": "Ever.Ag Unveils Everett",
-      "link": "https://ever.ag/company-news/press-release-news/ever-ag-unveils-everett",
-      "date": "2026-08-02T04:50:24+00:00",
-      "summary": "Ever.Ag unveils the Everett Ag Decision Engine, bringing agentic AI into agricultural supply chain products—arriving first for dairy with more industries coming next. read more (Feed generated with FetchRSS )",
-      "image": "https://ever.ag/wp-content/uploads/2026/04/everett-press-release-400x250.png"
     }
   ]
 }
